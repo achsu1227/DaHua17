@@ -5,9 +5,9 @@ import cac.com.dahua17.player.Guards
 import cac.com.dahua17.translator.ChineseTranslator
 import org.junit.Test
 
-class Client {
+class Coach {
     @Test
-    fun main() {
+    fun timeout() {
         val b = Forwards("巴蒂爾")
         b.Attack()
 
